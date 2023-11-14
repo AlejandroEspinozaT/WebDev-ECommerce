@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nN57vCvpO3YbafQZZdNpDAyYd1QiRGTpsyt5aFDgo1DJ2JFsJCIjDE5iT8CYm8FV2Fc1OBgW63+zz+6Ac0K9Gw==",
+  "success": true,
+  "projectFilePath": "/home/alejandro/Desktop/Proyectos/webDev/ecommerce/WebDev-ECommerce/Ecommerce/Producer/Producer.csproj",
+  "expectedPackageFiles": [
+    "/home/alejandro/.nuget/packages/rabbitmq/3.6.2/rabbitmq.3.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
